@@ -38,9 +38,20 @@ The framework streamlines every stage of the LLM application lifecycle—from pr
 Developers can also access extensive guides, tutorials, and community support through LangChain's GitHub repository, making it a versatile resource for creating intelligent systems.  
 [Visit LangChain on GitHub](https://github.com/langchain-ai/langchain?utm_source=chatgpt.com)
 
-**Getting Started with LangChain:**  
-- [Official Getting Started Guide](https://python.langchain.com/docs/introduction/?utm_source=chatgpt.com)  
+**Getting Started with LangChain:**
+- [Official Getting Started Guide](https://python.langchain.com/docs/introduction/?utm_source=chatgpt.com)
 <!-- - [YouTube: LangChain Explained in 13 Minutes | QuickStart Tutorial for Beginners](https://www.youtube.com/watch?v=aywZrzNaKjs) -->
+
+## NeuroLink
+
+**NeuroLink** is an open-source TypeScript SDK for building production-ready AI applications with unified access to 13 major AI providers (OpenAI, Anthropic, Google, AWS Bedrock, Azure, Mistral, Ollama, and more). Developed and battle-tested at Juspay, it provides a single consistent API across all providers.
+[Explore NeuroLink on GitHub](https://github.com/juspay/neurolink)
+
+NeuroLink ships as both a TypeScript SDK and a CLI, including MCP client integration (58+ external servers), Redis-backed memory persistence, Human-in-the-Loop (HITL) security controls, built-in RAG pipelines, multi-provider failover, and OpenTelemetry observability. MIT licensed, TypeScript 5.0+.
+
+**Getting Started with NeuroLink:**
+- [NeuroLink Quick Start Guide](https://github.com/juspay/neurolink/blob/main/docs/getting-started/quick-start.md)
+- [NeuroLink GitHub Repository](https://github.com/juspay/neurolink)
 
 ---
 
